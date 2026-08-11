@@ -1,10 +1,10 @@
 {
-  "versionCode": 42,
-  "versionName": "1.7.5",
-  "url": "",
-  "sha256": "",
-  "size": 0,
-  "required": false,
-  "publishedAt": "",
-  "notes": "ช่องทางอัปเดตพร้อมใช้งาน ยังไม่มี APK รุ่นใหม่เผยแพร่"
+    "versionCode":  0,
+    "versionName":  "0.0.0",
+    "url":  "",
+    "sha256":  "",
+    "size":  0,
+    "required":  false,
+    "publishedAt":  "",
+    "notes":  "ยังไม่มี APK เผยแพร่ รุ่นแรกจะเป็น v1.0.0"
 }
