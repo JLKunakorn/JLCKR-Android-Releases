@@ -1,10 +1,10 @@
 {
-    "versionCode":  50,
-    "versionName":  "1.0.7",
-    "url":  "https://github.com/JLKunakorn/JLCKR-Android-Releases/releases/download/v1.0.7/JLCKR-v1.0.7.apk",
-    "sha256":  "e4ecfe70a54624327ce4fc2aa179c9d8b6d0b1ab79f93bed3c5df9526dca09d7",
+    "versionCode":  51,
+    "versionName":  "1.0.8",
+    "url":  "https://github.com/JLKunakorn/JLCKR-Android-Releases/releases/download/v1.0.8/JLCKR-v1.0.8.apk",
+    "sha256":  "e389a757834bad493347d29a40986909b68663aa998f07bb603c16b7cdf909dd",
     "size":  136110253,
     "required":  false,
-    "publishedAt":  "2026-08-12T01:05:14.3859199Z",
-    "notes":  "แก้บัคการตรวจขนาดหน้าจอและภาพจับหน้าจอแนวตั้ง เพิ่มรายละเอียดไฟล์วิเคราะห์ปัญหา และเพิ่มโหมดธนาคารสำหรับหยุดระบบก่อนใช้งานแอปธนาคาร"
+    "publishedAt":  "2026-08-12T09:31:06.6833201Z",
+    "notes":  "แก้บัค Mystery Box ให้กด Open all ได้ เพิ่มการตรวจหน้าบูสต์และเครื่องหมายเลือกหลายรูปแบบสำหรับหน้าจอลูกค้า และแก้การตรวจพื้นที่เกมผิดจากกรอบภาพตัวอย่าง"
 }
