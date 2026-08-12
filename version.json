@@ -1,10 +1,10 @@
 {
-    "versionCode":  51,
-    "versionName":  "1.0.8",
-    "url":  "https://github.com/JLKunakorn/JLCKR-Android-Releases/releases/download/v1.0.8/JLCKR-v1.0.8.apk",
-    "sha256":  "e389a757834bad493347d29a40986909b68663aa998f07bb603c16b7cdf909dd",
+    "versionCode":  52,
+    "versionName":  "1.0.9",
+    "url":  "https://github.com/JLKunakorn/JLCKR-Android-Releases/releases/download/v1.0.9/JLCKR-v1.0.9.apk",
+    "sha256":  "fad82d98a56aa2a13e1f5de155b8da035df91d5eb164a525201530c28a2b09d4",
     "size":  136110253,
     "required":  false,
-    "publishedAt":  "2026-08-12T09:31:06.6833201Z",
-    "notes":  "แก้บัค Mystery Box ให้กด Open all ได้ เพิ่มการตรวจหน้าบูสต์และเครื่องหมายเลือกหลายรูปแบบสำหรับหน้าจอลูกค้า และแก้การตรวจพื้นที่เกมผิดจากกรอบภาพตัวอย่าง"
+    "publishedAt":  "2026-08-12T13:23:14.6099041Z",
+    "notes":  "- แก้บัคกด Confirm\n- แก้บัครอหน้า Lobby นาน\n- ปรับปรุงการตรวจจับหน้าจอ"
 }
