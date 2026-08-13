@@ -1,10 +1,10 @@
 {
-    "versionCode":  52,
-    "versionName":  "1.0.9",
-    "url":  "https://github.com/JLKunakorn/JLCKR-Android-Releases/releases/download/v1.0.9/JLCKR-v1.0.9.apk",
-    "sha256":  "fad82d98a56aa2a13e1f5de155b8da035df91d5eb164a525201530c28a2b09d4",
-    "size":  136110253,
+    "versionCode":  55,
+    "versionName":  "1.1.1",
+    "url":  "https://github.com/JLKunakorn/JLCKR-Android-Releases/releases/download/v1.1.1/JLCKR-v1.1.1.apk",
+    "sha256":  "22e2124a3ecfd7ef40ecf1308333eb08a6a2e3a5ad3e50e167017c491ac7dd31",
+    "size":  136143025,
     "required":  false,
-    "publishedAt":  "2026-08-12T13:23:14.6099041Z",
-    "notes":  "- แก้บัคกด Confirm\n- แก้บัครอหน้า Lobby นาน\n- ปรับปรุงการตรวจจับหน้าจอ"
+    "publishedAt":  "2026-08-13T16:24:25.7685202Z",
+    "notes":  "- เพิ่มระบบรายงานปัญหาและส่ง Log\n- ปรับปรุงรายละเอียด Log สำหรับตรวจสอบบัค\n- แก้ไขการทำงานและความเสถียรของ AutoFarm"
 }
