@@ -1,10 +1,10 @@
 {
-    "versionCode":  55,
-    "versionName":  "1.1.1",
-    "url":  "https://github.com/JLKunakorn/JLCKR-Android-Releases/releases/download/v1.1.1/JLCKR-v1.1.1.apk",
-    "sha256":  "22e2124a3ecfd7ef40ecf1308333eb08a6a2e3a5ad3e50e167017c491ac7dd31",
-    "size":  136143025,
-    "required":  false,
-    "publishedAt":  "2026-08-13T16:24:25.7685202Z",
-    "notes":  "- เพิ่มระบบรายงานปัญหาและส่ง Log\n- ปรับปรุงรายละเอียด Log สำหรับตรวจสอบบัค\n- แก้ไขการทำงานและความเสถียรของ AutoFarm"
+  "versionCode": 56,
+  "versionName": "1.1.2",
+  "url": "https://github.com/JLKunakorn/JLCKR-Android-Releases/releases/download/v1.1.2/JLCKR-v1.1.2.apk",
+  "sha256": "ff27fa2a393d704910647a0b39a9588e97e39a17a9572d759c1e78fc4aa90e22",
+  "size": 136143025,
+  "required": false,
+  "publishedAt": "2026-08-15T23:08:24.4714563Z",
+  "notes": "- แก้บัค Relic\n- ปรับปรุง Mail Life\n- แก้ค้างหน้าเน็ตหลุด\n- แก้บัคทั่วไป\n- ปรับปรุงการแจ้งเตือน Discord\n- ปรับปรุงการอ่านค่า Coins และ XP\n- ปรับปรุงระบบโดยรวมให้เสถียรขึ้น"
 }
