@@ -1,10 +1,10 @@
 {
-  "versionCode": 57,
-  "versionName": "1.1.3",
-  "url": "https://github.com/JLKunakorn/JLCKR-Android-Releases/releases/download/v1.1.3/JLCKR-v1.1.3.apk",
-  "sha256": "41aa7e30bd6c948bacddcacc28884c3aab984f5b642a0be69fd907470a1066c5",
+  "versionCode": 58,
+  "versionName": "1.1.4",
+  "url": "https://github.com/JLKunakorn/JLCKR-Android-Releases/releases/download/v1.1.4/JLCKR-v1.1.4.apk",
+  "sha256": "88864a364fabe0cda413c2cec0dd2320a7a77b6d65aecd75ab7bd29758bfa1a4",
   "size": 136143025,
   "required": false,
-  "publishedAt": "2026-08-16T09:16:42.0963398Z",
-  "notes": "- ปรับโหมด ไม่ทำอะไร ให้กระโดดติดกัน 10 ครั้ง\n- เพิ่มโหมด AFK ไม่กระโดดเลย\n- ปรับปรุงความเสถียรของการแตะระหว่างวิ่ง"
+  "publishedAt": "2026-08-18T00:04:46.4831137Z",
+  "notes": "- ปรับการปิดหน้าต่างแจ้งเตือนและ Fruits ให้เสถียรขึ้น\n- ปรับจังหวะกระโดด สไลด์ และโหมดโดด 10 ครั้ง\n- ปรับ Multi-Buy และการวนรอบหลังจบด่าน\n- เพิ่มการกู้คืนเมื่อรันนานผิดปกติ\n- แก้บัคทั่วไปและปรับปรุงความเสถียร"
 }
