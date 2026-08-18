@@ -1,10 +1,10 @@
 {
-  "versionCode": 58,
-  "versionName": "1.1.4",
-  "url": "https://github.com/JLKunakorn/JLCKR-Android-Releases/releases/download/v1.1.4/JLCKR-v1.1.4.apk",
-  "sha256": "88864a364fabe0cda413c2cec0dd2320a7a77b6d65aecd75ab7bd29758bfa1a4",
+  "versionCode": 59,
+  "versionName": "1.1.5",
+  "url": "https://github.com/JLKunakorn/JLCKR-Android-Releases/releases/download/v1.1.5/JLCKR-v1.1.5.apk",
+  "sha256": "71ab4cd7172e3f03432d72b65bdf0eb8c89165d68a7a055961747bb3e227cf1e",
   "size": 136143025,
   "required": false,
-  "publishedAt": "2026-08-18T00:04:46.4831137Z",
-  "notes": "- ปรับการปิดหน้าต่างแจ้งเตือนและ Fruits ให้เสถียรขึ้น\n- ปรับจังหวะกระโดด สไลด์ และโหมดโดด 10 ครั้ง\n- ปรับ Multi-Buy และการวนรอบหลังจบด่าน\n- เพิ่มการกู้คืนเมื่อรันนานผิดปกติ\n- แก้บัคทั่วไปและปรับปรุงความเสถียร"
+  "publishedAt": "2026-08-18T17:52:13.4368451Z",
+  "notes": "- ปรับการปิดหน้าต่างยืนยันและการกู้คืนเมื่อเน็ตหลุด`n- ปรับปรุงความเสถียรของ AutoFarm`n- ปุ่มส่งหัวใจเพื่อน ย่อยสมบัติ และตีบวก แสดงสถานะกำลังปรับปรุง"
 }
