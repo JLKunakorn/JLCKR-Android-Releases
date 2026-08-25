@@ -4,7 +4,7 @@
     "url":  "https://github.com/JLKunakorn/JLCKR-Android-Releases/releases/download/v1.1.8/JLCKR-v1.1.8.apk",
     "sha256":  "0763cf8217a6edf1bc8a9ff71151a558582bda28aabf531fef17b66aec8ca8c5",
     "size":  136159409,
-    "required":  false,
+    "required":  true,
     "publishedAt":  "2026-08-25T00:45:00.0000000Z",
     "notes":  "- แก้การซื้อ Relay / Fast Start ให้ทำงานถูกต้อง\n- เพิ่มออกด่านตามเวลา\n- ปรับความเสถียรและความปลอดภัย"
 }
