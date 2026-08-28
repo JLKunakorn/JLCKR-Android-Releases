@@ -1,10 +1,10 @@
 {
-  "versionCode": 100,
-  "versionName": "2.0.0",
-  "url": "https://github.com/JLKunakorn/JLCKR-Android-Releases/releases/download/v2.0.0/JLCKR-v2.0.0.apk",
-  "sha256": "25b75cfd565d73172f48cc3672049f0cc54881c770879c41093d5c1ed4635c84",
+  "versionCode": 101,
+  "versionName": "2.0.1",
+  "url": "https://github.com/JLKunakorn/JLCKR-Android-Releases/releases/download/v2.0.1/JLCKR-v2.0.1.apk",
+  "sha256": "51f04981f819b1cb3b1a710c7c0bb601e16ded65fd4dfd667a5b1aa6ffa1d120",
   "size": 24764874,
   "required": false,
-  "publishedAt": "2026-08-28T11:31:43.8704989Z",
-  "notes": "อัปเดตหน้าสุ่มบูสใหม่"
+  "publishedAt": "2026-08-28T18:00:39.0803106Z",
+  "notes": "บัคค้างหน้าบูส"
 }
