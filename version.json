@@ -1,10 +1,10 @@
 {
-  "versionCode": 103,
-  "versionName": "2.0.3",
-  "url": "https://github.com/JLKunakorn/JLCKR-Android-Releases/releases/download/v2.0.3/JLCKR-v2.0.3.apk",
-  "sha256": "775d21f597f53a1ccda8396797515d99b298da120e5afba00b64b10e3dd4ab5d",
-  "size": 24814026,
+  "versionCode": 104,
+  "versionName": "2.0.4",
+  "url": "https://github.com/JLKunakorn/JLCKR-Android-Releases/releases/download/v2.0.4/JLCKR-v2.0.4.apk",
+  "sha256": "7d440845058fa2c9ee4d1dcbf0044a00149066c7c0acfc45d9ca9038ce36a97e",
+  "size": 24830410,
   "required": false,
-  "publishedAt": "2026-08-30T16:05:05.7993523Z",
-  "notes": "ปรับปรุงประสิทธิภาพและความเสถียรของระบบ พร้อมแก้ไขข้อผิดพลาดเล็กน้อย"
+  "notes": "ปรับปรุงการแจ้งเตือน Discord เพิ่มการตั้งค่าการทำงาน และแก้ไขบั๊กเพื่อความเสถียรในการใช้งาน",
+  "publishedAt": "2026-09-05T23:36:24Z"
 }
