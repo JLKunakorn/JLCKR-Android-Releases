@@ -1,10 +1,10 @@
 {
-  "versionCode": 104,
-  "versionName": "2.0.4",
-  "url": "https://github.com/JLKunakorn/JLCKR-Android-Releases/releases/download/v2.0.4/JLCKR-v2.0.4.apk",
-  "sha256": "7d440845058fa2c9ee4d1dcbf0044a00149066c7c0acfc45d9ca9038ce36a97e",
-  "size": 24830410,
+  "versionCode": 105,
+  "versionName": "2.0.5",
+  "url": "https://github.com/JLKunakorn/JLCKR-Android-Releases/releases/download/v2.0.5/JLCKR-v2.0.5.apk",
+  "sha256": "c1e94b9507dab02ac238662a33844faac114a2ca309988432269e917c0e9f3da",
+  "size": 24879598,
   "required": false,
-  "notes": "ปรับปรุงการแจ้งเตือน Discord เพิ่มการตั้งค่าการทำงาน และแก้ไขบั๊กเพื่อความเสถียรในการใช้งาน",
-  "publishedAt": "2026-09-05T23:36:24Z"
+  "publishedAt": "2026-09-14T21:46:11.1457248Z",
+  "notes": "- ปรับ Fast Start / Relay และเพิ่มตัวเลือกออกหลังใช้ Relay\n- เพิ่มอัปเกรดถาวร ส่งหัวใจ และป้องกันสมบัติ\n- นับและจำแนกกล่องอัตโนมัติ พร้อมแจ้ง Discord และภาพรางวัล\n- กู้คืนอัตโนมัติเมื่อ Connection Lost\n- ปรับรองรับขนาดหน้าจอและแก้บั๊กเพื่อความเสถียร"
 }
