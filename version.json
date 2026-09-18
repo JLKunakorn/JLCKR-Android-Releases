@@ -1,10 +1,10 @@
 {
-  "versionCode": 106,
-  "versionName": "2.0.6",
-  "url": "https://github.com/JLKunakorn/JLCKR-Android-Releases/releases/download/v2.0.6/JLCKR-v2.0.6.apk",
-  "sha256": "dc0a9d5e85e07326af1cb5d10b6b234ce988abcce6316a0dcc40140f1aead888",
+  "versionCode": 107,
+  "versionName": "2.0.7",
+  "url": "https://github.com/JLKunakorn/JLCKR-Android-Releases/releases/download/v2.0.7/JLCKR-v2.0.7.apk",
+  "sha256": "dee3f7622bd837a47c30e48411a6e00533c1ef651ff3dc13bc0b23aad9140bfa",
   "size": 24912912,
   "required": false,
-  "publishedAt": "2026-09-18T01:15:43.3627549Z",
-  "notes": "- เพิ่มความเร็วการกดและรับ–ส่งหัวใจ\n- แก้ปัญหาค้างระหว่างส่งหัวใจให้เพื่อน\n- ปรับการกดปิดหน้าต่างและปุ่มยืนยันให้ทำงานต่อได้ดีขึ้น\n\nมาโครอยู่ระหว่างทดสอบ รออัปเดตรอบถัดไป"
+  "publishedAt": "2026-09-18T01:54:50.0067410Z",
+  "notes": "- เพิ่มความเร็วการกดและรับ–ส่งหัวใจ\n- แก้ปัญหาค้างระหว่างส่งหัวใจให้เพื่อน\n- ปรับการปิดหน้าต่างและปุ่มยืนยันให้ทำงานต่อได้ดีขึ้น\n- แก้การนับและจำแนกกล่องหลังจบรอบ\n\nมาโครอยู่ระหว่างทดสอบ รออัปเดตรอบถัดไป\n"
 }
