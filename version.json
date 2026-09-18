@@ -1,10 +1,10 @@
 {
-  "versionCode": 105,
-  "versionName": "2.0.5",
-  "url": "https://github.com/JLKunakorn/JLCKR-Android-Releases/releases/download/v2.0.5/JLCKR-v2.0.5.apk",
-  "sha256": "c1e94b9507dab02ac238662a33844faac114a2ca309988432269e917c0e9f3da",
-  "size": 24879598,
+  "versionCode": 106,
+  "versionName": "2.0.6",
+  "url": "https://github.com/JLKunakorn/JLCKR-Android-Releases/releases/download/v2.0.6/JLCKR-v2.0.6.apk",
+  "sha256": "dc0a9d5e85e07326af1cb5d10b6b234ce988abcce6316a0dcc40140f1aead888",
+  "size": 24912912,
   "required": false,
-  "publishedAt": "2026-09-14T21:46:11.1457248Z",
-  "notes": "- ปรับ Fast Start / Relay และเพิ่มตัวเลือกออกหลังใช้ Relay\n- เพิ่มอัปเกรดถาวร ส่งหัวใจ และป้องกันสมบัติ\n- นับและจำแนกกล่องอัตโนมัติ พร้อมแจ้ง Discord และภาพรางวัล\n- กู้คืนอัตโนมัติเมื่อ Connection Lost\n- ปรับรองรับขนาดหน้าจอและแก้บั๊กเพื่อความเสถียร"
+  "publishedAt": "2026-09-18T01:15:43.3627549Z",
+  "notes": "- เพิ่มความเร็วการกดและรับ–ส่งหัวใจ\n- แก้ปัญหาค้างระหว่างส่งหัวใจให้เพื่อน\n- ปรับการกดปิดหน้าต่างและปุ่มยืนยันให้ทำงานต่อได้ดีขึ้น\n\nมาโครอยู่ระหว่างทดสอบ รออัปเดตรอบถัดไป"
 }
