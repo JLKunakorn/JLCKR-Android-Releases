@@ -1,10 +1,10 @@
 {
-  "versionCode": 107,
-  "versionName": "2.0.7",
-  "url": "https://github.com/JLKunakorn/JLCKR-Android-Releases/releases/download/v2.0.7/JLCKR-v2.0.7.apk",
-  "sha256": "dee3f7622bd837a47c30e48411a6e00533c1ef651ff3dc13bc0b23aad9140bfa",
+  "versionCode": 108,
+  "versionName": "2.0.8",
+  "url": "https://github.com/JLKunakorn/JLCKR-Android-Releases/releases/download/v2.0.8/JLCKR-v2.0.8.apk",
+  "sha256": "aea8388d2b7241dcbff9ac265dd6c77a0b2314aa0ce007d3f884738678884955",
   "size": 24912912,
   "required": false,
-  "publishedAt": "2026-09-18T01:54:50.0067410Z",
-  "notes": "- เพิ่มความเร็วการกดและรับ–ส่งหัวใจ\n- แก้ปัญหาค้างระหว่างส่งหัวใจให้เพื่อน\n- ปรับการปิดหน้าต่างและปุ่มยืนยันให้ทำงานต่อได้ดีขึ้น\n- แก้การนับและจำแนกกล่องหลังจบรอบ\n\nมาโครอยู่ระหว่างทดสอบ รออัปเดตรอบถัดไป\n"
+  "publishedAt": "2026-09-24T15:31:48.1989658Z",
+  "notes": "- แก้ปัญหาบอทหยุดเองเมื่อการเชื่อมต่อเซิร์ฟเวอร์สะดุดชั่วคราว`n- ปรับให้ระบบเชื่อมต่อใหม่อัตโนมัติโดยไม่หยุดรอบฟาร์ม"
 }
